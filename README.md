@@ -1,4 +1,4 @@
 # TemplateBasedDocumentGenerator
-Available on nuget.
+Based on .NET Standard 2.0. Available on nuget.
 
-https://www.nuget.org/packages/TemplateBasedDocumentGenerator/0.1.0
+https://www.nuget.org/packages/TemplateBasedDocumentGenerator
